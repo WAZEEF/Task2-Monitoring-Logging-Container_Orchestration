@@ -2,7 +2,7 @@
  using containerization and open-source monitoring tools. It's built as part of an
  Assessment Task on Monitoring, Logging, and Container Orchestration.
  Tech Stack:- Python: Sample app with health check endpoint- Docker: Containerized setup- Docker Compose: Multi-container orchestration- Prometheus: Metrics monitoring and scraping- Grafana: Dashboard visualization and alerting- Loki + Promtail: Centralized logging solution
- Folder Structure:
+ Folder Structure: 
  .
  app/
     app.py                  # Python microservice
