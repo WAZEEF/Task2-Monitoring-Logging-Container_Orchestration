@@ -14,7 +14,7 @@
  Features:- Real-time service health monitoring via Prometheus- Log aggregation with Loki and Promtail- Visual dashboards in Grafana- Dockerized stack  no manual setups- Metrics exposed on /metrics endpoint
  Setup & Run:
  1. Clone the repository
- $ git clone https://github.com/your-username/monitoring-assignment-2.git
+ $ git clone https://github.com/WAZEEF/Task2-Monitoring-Logging-Container_Orchestration.git
  $ cd monitoring-assignment-2
  2. Start all containers
  $ docker-compose up -d
